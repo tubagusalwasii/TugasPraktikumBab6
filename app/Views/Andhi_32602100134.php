@@ -15,10 +15,9 @@
         <th colspan="2">MobileLegend</th>
     </tr>
     <tr>
-        <td>Yogyakarta</td>
-        <td>Indonesia</td>
-        <td>Yogyakarta</td>
-        <td>Indonesia</td>
+        <td>semarang</td>
+        <td>jakarta</td>
+        <td>Tegal</td>
     </tr>
     <tr>
         <td colspan="2">
