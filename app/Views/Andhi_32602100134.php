@@ -18,6 +18,13 @@
         <td>semarang</td>
         <td>jakarta</td>
         <td>Tegal</td>
+        <td>M</td>
+        <td>o</td>
+        <td>b</td>
+        <td>i</td>
+        <td>l</td>
+        <td>w</td>
+            
     </tr>
     <tr>
         <td colspan="2">
