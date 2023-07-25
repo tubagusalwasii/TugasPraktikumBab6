@@ -1,0 +1,19 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+
+  
+
+.container{
+  font-family: Popins, sans-serif;
+}
+
+.table tbody, tr, *{
+  vertical-align: middle;
+  
+}
+
+img{
+  width: 130px;
+  height: 150px;
+  
+}
