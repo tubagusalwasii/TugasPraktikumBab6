@@ -538,4 +538,3 @@ if (is_file(APPPATH . 'Config/' . ENVIRONMENT . '/Routes.php')) {
 </div>
 </div>
 <?php $this->endSection();?>
-
